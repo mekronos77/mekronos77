@@ -4,7 +4,7 @@
 
 > 📚 Passionate about web development, clean code, and learning new technologies daily.
 
----
+***
 
 ## 🔭 Currently Learning
 - 💻 **TypeScript** – Main language for all my projects  
@@ -12,7 +12,7 @@
 - 🌐 **Backend Concepts** – API design, project structure  
 - 🧠 **Software Patterns** – DDD, Clean Architecture, maintainable code  
 
----
+***
 
 ## 🛠️ Tools & Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,7 +22,7 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
----
+***
 
 ## 🎯 About Me
 - Focused on writing **clean and readable code**  

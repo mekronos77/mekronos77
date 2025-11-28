@@ -4,7 +4,6 @@
 
 > 📚 Passionate about web development, clean code, and learning new technologies daily.
 
-***
 
 ## 🔭 Currently Learning
 - 💻 **TypeScript** – Main language for all my projects  
@@ -19,9 +18,6 @@
 ![SQL](https://img.shields.io/badge/SQL-00599C?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
----
 
 
 ## 🎯 About Me

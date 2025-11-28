@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Kronos
 
-<!--
-**mekronos77/mekronos77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📚 A student passionate about web development, clean code, and learning new technologies every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Studying
+
+| Technology / Tool     | Description                          |
+|-----------------------|--------------------------------------|
+| 💻 TypeScript         | My main language while learning       |
+| 🛢️ SQL Databases      | Improving my SQL knowledge            |
+| 🌐 Backend Concepts   | API design, structuring projects, etc. |
+| 🧠 Software Patterns  | Exploring DDD, clean architecture, and more |
+
+---
+
+## 🛠️ Tools I Use
+
+| Tool / Stack          | Description                          |
+|-----------------------|--------------------------------------|
+| 🖥️ Zed                | My main code editor                   |
+| 🔧 Node.js            | Runtime I use in most projects        |
+| 🚀 JavaScript / TS    | Core languages I practice daily       |
+| 📂 Git & GitHub       | Version control and project hosting   |
+
+---
+
+## 🎯 About Me
+
+- Always learning and experimenting with new tools  
+- Focused on writing clean and readable code  
+- Enjoy building modern web experiences  
+- Gamer at heart, storyteller when inspiration strikes  
+

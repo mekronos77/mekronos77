@@ -3,29 +3,26 @@
 # 👋 Hi, I'm Kronos
 📚 Passionate about web development, clean code, and learning new technologies daily.
 
-
 ## 🔭 Currently Learning
-- 💻 **TypeScript** – Main language for all my projects  
-- 🛢️ **SQL Databases** – Improving query design and structure  
-- 🌐 **Backend Concepts** – API design, project structure  
+- 💻 **TypeScript** – Main language for all my projects
+- 🛢️ **SQL Databases** – Improving query design and structure
+- 🌐 **Backend Concepts** – API design, project structure
 - 🧠 **Software Patterns** – DDD, Clean Architecture, maintainable code
 
-
-### 🛠️ Tools & Tech
+## 🛠️ Tools & Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-00599C?style=flat-square&logo=mysql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-fbf0df?style=flat-square&logo=bun&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-c5f74f?style=flat-square&logo=drizzle&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-c5f74f?logo=drizzle&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084cce?style=flat-square&logo=zedindustries&logoColor=white)
 
 ---
-#### 🎯 About Me
-- Focused on writing **clean and readable code**  
-- Enjoy building **modern web experiences**  
-- Lifelong learner, always exploring **new tools and technologies**  
-- Gamer at heart, storyteller when inspiration strikes  
 
+## 🎯 About Me
+- Focused on writing **clean and readable code**
+- Enjoy building **modern web experiences**
+- Lifelong learner, always exploring **new tools and technologies**
+- Gamer at heart, storyteller when inspiration strikes
